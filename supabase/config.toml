@@ -1,0 +1,10 @@
+project_id = ""
+
+[functions.google-health-auth]
+verify_jwt = false
+
+[functions.google-health-callback]
+verify_jwt = false
+
+[functions.google-health-sync]
+verify_jwt = false
